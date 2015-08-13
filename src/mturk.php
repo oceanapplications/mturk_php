@@ -1,4 +1,6 @@
 <?php
+namespace oceanapplications\mturk_php;
+
 class MechanicalTurk {
     // Define convenient names for system qualifications.
     const P_SUBMITTED = '00000000000000000000';
