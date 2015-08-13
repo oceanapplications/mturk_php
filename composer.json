@@ -5,13 +5,11 @@
     "keywords": ["mturk"],
     "authors": [
         {
-            "name": "Ocean Applications",
+            "name": "Ocean Applications"
         }
     ],
     "require": {},
-    "require-dev": {
- 
-    },
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "oceanapplications\\mturk-php\\": "src"
