@@ -1,0 +1,6 @@
+{
+"use_sandbox" : true,
+"verify_mturk_ssl" : true,
+"aws_key" : "key",
+"aws_secret_key" : "secret"
+}

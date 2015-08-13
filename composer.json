@@ -1,0 +1,20 @@
+{
+    "name": "oceanapplications/mturk-php",
+    "description": "mTurk-PHP wrapper",
+    "license": "MIT",
+    "keywords": ["mturk"],
+    "authors": [
+        {
+            "name": "Ocean Applications",
+        }
+    ],
+    "require": {},
+    "require-dev": {
+ 
+    },
+    "autoload": {
+        "psr-4": {
+            "oceanapplications\\mturk-php\\": "src"
+        }
+    }
+}
