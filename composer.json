@@ -1,6 +1,6 @@
 {
     "name": "oceanapplications/mturk_php",
-    "description": "mTurk-PHP wrapper",
+    "description": "mTurk_PHP wrapper",
     "license": "MIT",
     "keywords": ["mturk"],
     "authors": [
